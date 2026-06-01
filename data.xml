@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<orgs>
+    <item city="Москва" org="ООО Рога и Копыта" title="Кепка" value="120"/>
+    <item city="Москва" org="ООО Рога и Копыта" title="Велосипед" value="5"/>
+    <item city="Москва" org="ООО Рога и Копыта" title="Футболка" value="10"/>
+    <item city="Москва" org="ООО Светлана" title="Шапка" value="120"/>
+    <item city="Москва" org="ООО Светлана" title="Трусы" value="10"/>
+    <item city="Москва" org="ООО Ариадна" title="Велосипед" value="120"/>
+    <item city="Москва" org="ООО Ариадна" title="Футболка" value="10"/>
+    <item city="Петербург" org="ООО Стрелка" title="Кепка" value="120"/>
+    <item city="Петербург" org="ООО Стрелка" title="Самокат" value="5"/>
+    <item city="Петербург" org="ООО Стрелка" title="Футболка" value="10"/>
+    <item city="Петербург" org="ООО Светлана" title="Кепка" value="120"/>
+    <item city="Петербург" org="ООО Светлана" title="Футболка" value="10"/>
+    <item city="Петербург" org="ООО Петр I" title="Велисапед" value="120"/>
+    <item city="Петербург" org="ООО Петр I" title="Шорты" value="10"/>
+</orgs>
